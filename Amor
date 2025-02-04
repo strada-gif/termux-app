@@ -1,0 +1,9 @@
+.carta_love {
+ position: adsolute;
+ botom: 5px
+ left: 50%
+ --Letter-bg:#fff;
+ --Letter-text: #c0392b;
+ padding:2em 3m;
+ display: flex;
+}
